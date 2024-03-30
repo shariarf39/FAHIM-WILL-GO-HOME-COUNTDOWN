@@ -1,1 +1,1 @@
-![GitHub Logo](https://github.com/shariarf39/FAHIM-WILL-GO-HOME-COUNTDOWN/raw/main/Screensho.png)
+![GitHub Logo](https://github.com/shariarf39/FAHIM-WILL-GO-HOME-COUNTDOWN/Screenshot.png)
